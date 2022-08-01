@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Klee+One:wght@600&family=Lilita+One&family=Secular+One&display=swap');
+
+
+
+body{
+    background-color:rgb(66, 67, 65);
+}
+
+#heading{
+    font-family: 'Secular One', sans-serif;
+    color: rgb(235, 247, 247);
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+
+#section1{
+    text-align: center;
+    color: rgb(235, 247, 247);
+    margin-top: 300px;
+    margin-right: 500px;
+    background-color: rgb(104, 11, 85);
+    margin-top: 2px;
+}
+
+#heading2{
+    font-family: 'Secular One', sans-serif;
+    background-color: rgb(47, 108, 108);
+}d
+
+#number{
+    font-size: 20px;
+    font-family: 'Secular One', sans-serif;
+}
+#code{
+    font-size: 20px;
+    font-family: 'Secular One', sans-serif;
+}
+#which{
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    color: rgb(235, 247, 247);
+    font-size: 200px;
+    margin: 20px;
+
+}
